@@ -1,0 +1,5 @@
+{
+  "name": "Nike AI Assistant",
+  "description": "An AI-powered assistant for the Nike website. Get help with product information, order tracking, and finding your perfect fit.",
+  "requestFramePermissions": []
+}
